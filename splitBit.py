@@ -16,7 +16,7 @@ DC = 1 # 0 [Hz]
 SWEEP = 10
 
 vna = nv.connect()
-freq = np.linspace(125e3, 135e3, SWEEP + DC)
+freq = np.linspace(120e3, 140e3, SWEEP + DC)
 vna.datapoints = SWEEP
 vna.setSweep(freq[1], freq[-1])
 
