@@ -12,7 +12,6 @@ from tkinter import ttk
 
 
 
-"""
 DC = 1 # 0 [Hz]
 SWEEP = 10
 
@@ -29,7 +28,6 @@ else:
     db = open("db.pkl", "rb")
     calibration = pickle.load(db)
 db.close()
-"""
 
 
 
