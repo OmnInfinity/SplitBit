@@ -1,4 +1,5 @@
 # SplitBit
+A Low-Cost Automatic Radio-Frequency Transponder Sports Timing System for Athletes 
 
 ## Instructions
 
